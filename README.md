@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laka</h1>
+<h1 align="center">Hi 👋, I'm Chanuka Lakshan</h1>
 
 <h3 align="center">Full Stack Developer | React | Next.js | Node.js | Laravel</h3>
 
