@@ -5,44 +5,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=C084FC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=52&lines=Building+digital+experiences+that+matter+🚀;Crafting+elegant+code%2C+pixel+by+pixel+✨;Turning+ideas+into+powerful+applications+💡;Full+Stack+%7C+UI%2FUX+%7C+Machine+Learning+🤖" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header&reversal=false&textBg=false" width="80%" />
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/🌍%20Sri%20Lanka-SLIIT%20Malabe-7c3aed?style=for-the-badge&labelColor=13001f" /></a>
-<a href="#"><img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Work-10b981?style=for-the-badge&labelColor=052e16" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🎓%20BSc-Information%20Technology-c084fc?style=for-the-badge&labelColor=13001f" /></a>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chanukalakshan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chanukalakshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://chanukalakshan.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanukalakshan@gmail.com)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=chanukalakshan&label=👁%20Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=1e1b4b" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="80%" />
-
-<br/>
-
-```
-  ╔══════════════════════════════════════════════════════╗
-  ║  < Code • Create • Innovate • Inspire • Repeat />   ║
-  ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a6b,60:1a0533,80:0d0221,100:000000&height=100&section=footer&animation=fadeIn" />
 
 <br><br>
 
