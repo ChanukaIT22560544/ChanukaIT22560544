@@ -5,7 +5,6 @@
 
 <div align="center">
 
-
 <br><br>
 
 <!-- ABOUT ME SECTION -->
