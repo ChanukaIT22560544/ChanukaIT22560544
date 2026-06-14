@@ -1,118 +1,104 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=waving&color=0A66C2&height=200&section=header&text=Chanuka%20Lakshan&fontSize=60&fontAlignY=45&animation=fadeIn" alt="Header" width="100%"/>
+<!-- HERO SECTION -->
+<h1>Hi there! 👋 I am Chanuka Lakshan</h1>
 
-  <h1>👋 Hi there, I'm Chanuka Lakshan</h1>
-  
-  <h3>🚀 Full Stack Developer | Turning Ideas into Scalable Digital Experiences</h3>
+<!-- Animated Typing Effect for Professional Motion -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Bridging+Web+Dev+%26+Machine+Learning" alt="Typing SVG" />
+</a>
 
-  <p>
-    <a href="https://github.com/chanukalakshan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/></a>
-  </p>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=chanukalakshan&label=Profile%20Views&color=0A66C2&style=flat-square&base=1000" alt="Profile Views"/>
+<!-- ABOUT ME SECTION -->
+<h3>👨‍💻 About Me</h3>
 
-</div>
+<p align="center">
+  I am a software engineer focused on architecting scalable, user-centric web applications and exploring the integration of modern backend systems with machine learning. From crafting seamless full-stack interfaces to designing robust data pipelines, I thrive on engineering elegant solutions to complex technical challenges.
+</p>
 
----
+<p align="center">
+  🎓 <b>BSc (Hons) Degree in Information Technology</b><br>
+  <i>Specialized in Information Technology at SLIIT UNI, Malabe, Sri Lanka</i>
+</p>
 
-### ✨ About Me
+<br>
 
-**Passionate Full Stack Developer** with a strong foundation in modern web technologies and a keen interest in building performant, user-centric applications.
+<hr style="width: 50%; border: 1px solid #e1e4e8;">
 
-🎓 **BSc (Hons) Degree in Information Technology**  
-Specialized in Information Technology  
-**SLIIT University**, Malabe, Sri Lanka
+<br>
 
-I thrive on solving complex problems, crafting elegant code, and delivering seamless digital solutions. Currently exploring cutting-edge technologies in the JavaScript ecosystem and AI/ML integrations.
+<!-- TECH STACK SECTION -->
+<h3>🛠️ Tech Stack</h3>
 
----
+<p><b>Frontend Development</b></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
 
-### 🛠️ Tech Stack
+<p><b>Backend & Architecture</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
-<div align="center">
+<p><b>Databases & Cloud</b></p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white&style=for-the-badge" alt="ML"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4B4?logo=canva&logoColor=white&style=for-the-badge" alt="Canva"/>
+<p><b>Languages & Core Tech</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
 
-</div>
+<p><b>Specializations & Design</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
 
----
+<br>
 
-### 🚀 Featured Skills & Tools
+<hr style="width: 50%; border: 1px solid #e1e4e8;">
 
-- **Frontend**: React • Next.js • Angular • TailwindCSS
-- **Backend**: Node.js • Express • Spring Boot • PHP
-- **Databases**: MySQL • PostgreSQL • MongoDB • Firebase
-- **Languages**: JavaScript • TypeScript • Python • Java • Kotlin • C
-- **Design**: Figma • Canva
-- **Others**: Machine Learning • REST APIs • Git • Docker
+<br>
 
----
+<!-- GITHUB STATS (Animated & Professional) -->
+<h3>📊 GitHub Analytics</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="GitHub Stats" />
+</p>
 
-### 📫 Let's Connect
+<br>
 
-<div align="center">
+<!-- CONTACT FOOTER -->
+<h3>📫 Let's Connect</h3>
+<p>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-  💼 **Open to collaborations** on exciting Full Stack projects, especially those involving modern JS frameworks and AI integrations.
-
-  📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
-  🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=chanukalakshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanukalakshan&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180px"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukalakshan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-  <p>Made with ❤️ and lots of ☕ in Sri Lanka</p>
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A66C2&height=80&section=footer" width="100%"/>
 </div>
