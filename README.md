@@ -100,4 +100,14 @@
   </a>
 </p>
 
+<br/><br/>
+ 
+<img src="https://komarev.com/ghpvc/?username=chanukalakshan&label=👁%20Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=1e1b4b" />
+<br/><br/>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="80%" />
+
+
 </div>
+
+
