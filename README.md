@@ -11,7 +11,7 @@
 <br><br>
 
 <!-- ABOUT ME SECTION -->
-<h3>👨‍💻 About Me</h3>
+<h3> About Me</h3>
 
 <p align="center">
   I am a software engineer focused on architecting scalable, user-centric web applications and exploring the integration of modern backend systems with machine learning. From crafting seamless full-stack interfaces to designing robust data pipelines, I thrive on engineering elegant solutions to complex technical challenges.
@@ -29,7 +29,7 @@
 <br>
 
 <!-- TECH STACK SECTION -->
-<h3>🛠️ Tech Stack</h3>
+<h3> Tech Stack</h3>
 
 <p><b>Frontend Development</b></p>
 <p>
@@ -80,15 +80,15 @@
 <br>
 
 <!-- GITHUB STATS (Animated & Professional) -->
-<h3>📊 GitHub Analytics</h3>
+<h3> GitHub Analytics</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChanukaIT22560544&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=333333" alt="GitHub Stats" />
 </p>
 
 <br>
 
 <!-- CONTACT FOOTER -->
-<h3>📫 Let's Connect</h3>
+<h3> Let's Connect</h3>
 <p>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
